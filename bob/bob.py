@@ -1,3 +1,4 @@
+from trade import trade
 import getpass
 import hashlib
 import hmac
